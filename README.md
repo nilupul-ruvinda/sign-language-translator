@@ -16,7 +16,7 @@ A real-time Sign Language fingerspelling translator built from scratch in Python
 * `02_train_letters.py` — Trains the dense neural network and exports `letter_model.h5`.
 * `03_realtime_letters.py` — Runs live webcam inference to translate signs into text.
 
-##user instructions
+## user instructions
 * Hold a sign steady for 1-2 seconds to type that letter into the Word bar at the top.
 
 * Spacebar: Add a space between words.
