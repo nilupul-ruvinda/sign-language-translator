@@ -1,0 +1,11 @@
+user instructions:
+
+Hold a sign steady for 1-2 seconds to type that letter into the Word bar at the top.
+
+Spacebar: Add a space between words.
+
+C: Clear the typed text.
+
+Q: Exit the translator.
+
+bakespace: clear the previous letter.
