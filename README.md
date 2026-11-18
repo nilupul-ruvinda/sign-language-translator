@@ -15,3 +15,15 @@ A real-time Sign Language fingerspelling translator built from scratch in Python
 * `01_collect_letters.py` — Captures and normalizes 100 landmark samples per letter (A–Z).
 * `02_train_letters.py` — Trains the dense neural network and exports `letter_model.h5`.
 * `03_realtime_letters.py` — Runs live webcam inference to translate signs into text.
+
+##user instructions:
+
+Hold a sign steady for 1-2 seconds to type that letter into the Word bar at the top.
+
+Spacebar: Add a space between words.
+
+C: Clear the typed text.
+
+Q: Exit the translator.
+
+bakespace: clear the previous letter.
