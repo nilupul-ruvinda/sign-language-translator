@@ -17,13 +17,12 @@ A real-time Sign Language fingerspelling translator built from scratch in Python
 * `03_realtime_letters.py` — Runs live webcam inference to translate signs into text.
 
 ##user instructions:
+* Hold a sign steady for 1-2 seconds to type that letter into the Word bar at the top.
 
-Hold a sign steady for 1-2 seconds to type that letter into the Word bar at the top.
+* Spacebar: Add a space between words.
 
-Spacebar: Add a space between words.
+* C: Clear the typed text.
 
-C: Clear the typed text.
+* Q: Exit the translator.
 
-Q: Exit the translator.
-
-bakespace: clear the previous letter.
+* bakespace: clear the previous letter.
